@@ -1,0 +1,8 @@
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/uzd_01.dir
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/uzd_02.dir
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/uzd_03.dir
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/piem_03.dir
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/uzd_04.dir
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/udodo/Desktop/Studijas 2024/C++/03_uzdevumi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
